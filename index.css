@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+    color: whitesmoke;
+    font-family: monospace;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+li {
+    list-style-type: '- ';
+}
+
+/* unvisited link */
+a:link, a:visited, a:hover, a:active{
+    color: darkcyan;
+    text-decoration: none;
+}
+
+.header {
+    color: gray;
+}
